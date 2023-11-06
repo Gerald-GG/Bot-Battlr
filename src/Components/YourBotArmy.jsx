@@ -12,7 +12,7 @@ function YourBotArmy({ enlistedBots, setEnlistedBots }) {
   const dischargeBot = async (bot) => {
     try {
       // Delete the bot from the backend
-      await fetch(`http://localhost:8000/bots/${bot.id}`, {
+      await fetch(`http://localhost:3000/bots/${bot.id}`, {
         method: 'DELETE',
       });
 
