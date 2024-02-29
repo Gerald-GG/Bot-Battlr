@@ -1,8 +1,3 @@
-# React + Vite
+# Bot-battlr
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Bot-Battlr is a web application that allows users to build their own bot armies for battles. The app includes a collection of bots with distinct abilities, allowing users to discover and choose their favourites. Users can view detailed specifications for each bot and recruit them to their army. Enlisted bots are displayed in a dedicated section, allowing users to effectively manage their armies. With sorting options, users can easily find and select bots based on their preferences. Overall, Bot-Battlr provides a simple and engaging platform for users to create their ideal bot army and prepare for battles.
